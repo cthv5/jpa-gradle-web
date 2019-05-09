@@ -30,4 +30,6 @@ dependencies {
     compile('oracle:ojdbc6:11.2.0.1.0')
     //jpa
     compile('org.springframework.boot:spring-boot-starter-data-jpa')
+    // fastjson
+    compile('com.alibaba:fastjson:1.2.5')
 }
